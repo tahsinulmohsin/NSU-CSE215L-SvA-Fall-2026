@@ -35,7 +35,7 @@ This lab supplements the CSE215 theory course by implementing the following Obje
 ## 💻 Tools & Environment
 
 *   **Language:** Java (JDK)
-*   **Primary IDEs:** Eclipse IDE (Official Course Standard) / VS Code / IntelliJ IDEA
+*   **Primary IDEs:** Eclipse IDE / Apaxhe NetBeans / VS Code / IntelliJ IDEA
 *   **Version Control:** Git & GitHub
 
 ## ⚠️ Academic Integrity Disclaimer
