@@ -1,4 +1,4 @@
-# NSU-CSE215L-SvA-Fall-2026
+# NSU CSE215L SvA Fall 2026 - Programming Language II Lab at North South University in the Fall 2026 Semester
 
 This repository contains all the lab manuals, classwork, homework, and practice codes from **CSE215L: Programming Language II Lab**, completed under Ms. Silvia Ahmed at North South University during the Fall 2026 semester[cite: 6]. 
 
